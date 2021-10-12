@@ -1,0 +1,12 @@
+th{
+    font-weight: 900;
+    background-color: aquamarine;
+    color: beige;
+}
+table{
+    font-family: helvetica,sans-serif;
+    border-collapse: collapse;
+    border-width: 3px;
+    border-style: solid;
+    border-color: aquamarine;
+}
